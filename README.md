@@ -1,5 +1,5 @@
 # PROYECTO DE COMIENZO: NICESTART
-(Añadí una Lottie en el activity LOGIN)Anahi Hinojosa final
+
 We have six activities/interactions until now: **SPLASH**, **LOGIN**,  **SIGN UP**, **MAIN**, **PROFILE** and **EDIT PROFILE**. 
 
 ## SPLASH: 
@@ -81,3 +81,5 @@ It has some properties. For example, main activity has a profile image which fir
     .into(prof);
 
 That's it for now, **we'll be upgrading it!!**
+
+_(Añadí una Lottie en el activity LOGIN)Anahi Hinojosa final_
