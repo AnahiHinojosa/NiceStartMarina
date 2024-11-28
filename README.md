@@ -82,4 +82,4 @@ It has some properties. For example, main activity has a profile image which fir
 
 That's it for now, **we'll be upgrading it!!**
 
-_(Añadí una Lottie en el activity LOGIN)Anahi Hinojosa final_
+_(Añadí una Lottie en el activity LOGIN)Anahi Hinojosa final 112_
